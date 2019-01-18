@@ -1,0 +1,23 @@
+
+[ host2ip ]
+
+# About
+  Code slung by: r4bbit
+    Requested by a member in the 'Info Share' group on Signal.
+
+# Description
+  A simple bash script to resolve IPs from hostnames listed in a file.
+  
+# How to use
+  Pretty straight forward...
+    1. Clone the repo
+    2. cd into the host2ip directory
+    3. Modify the 'hostnames.txt' file to suite your needs
+    4. Run ./host2ip.sh
+    
+  The output includes a tab in each line between the hostname and resolved IP so you can copy/paste into csv, excel, etc.
+  You can also run "./host2ip.sh > resolved.txt" (minus quotes) to write the output to a file.
+    
+# Contact
+  If you know me, you know how to get in touch.
+  
